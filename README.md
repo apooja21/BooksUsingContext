@@ -1,6 +1,12 @@
+
+
+
 # Getting Started with Create React App
 
+## This project is a demo project from React Tutorial from Udemy.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
